@@ -1,0 +1,442 @@
+{
+ "original_firstorder_10Percentile": {
+  "std": 186.22676499904097,
+  "mean": 667.9583333333334
+ },
+ "original_firstorder_90Percentile": {
+  "std": 256.07844252279335,
+  "mean": 1587.4916666666668
+ },
+ "original_firstorder_Energy": {
+  "std": 198549040192.57718,
+  "mean": 139474621249.36905
+ },
+ "original_firstorder_Entropy": {
+  "std": 0.27204678904840546,
+  "mean": 5.706414360273126
+ },
+ "original_firstorder_InterquartileRange": {
+  "std": 104.6651462570367,
+  "mean": 532.6339285714286
+ },
+ "original_firstorder_Kurtosis": {
+  "std": 1.0253216470921243,
+  "mean": 2.652519678005337
+ },
+ "original_firstorder_Maximum": {
+  "std": 494.3193775451636,
+  "mean": 2113.2261904761904
+ },
+ "original_firstorder_Mean": {
+  "std": 213.99391149978047,
+  "mean": 1134.296655175619
+ },
+ "original_firstorder_MeanAbsoluteDeviation": {
+  "std": 55.53460301809983,
+  "mean": 287.6330474105678
+ },
+ "original_firstorder_Median": {
+  "std": 228.13809059887353,
+  "mean": 1144.607142857143
+ },
+ "original_firstorder_Minimum": {
+  "std": 532.622588842912,
+  "mean": -391.26190476190476
+ },
+ "original_firstorder_Range": {
+  "std": 814.9815504460286,
+  "mean": 2504.4880952380954
+ },
+ "original_firstorder_RobustMeanAbsoluteDeviation": {
+  "std": 42.47485473410224,
+  "mean": 216.88749750768537
+ },
+ "original_firstorder_RootMeanSquared": {
+  "std": 214.00254532123765,
+  "mean": 1187.7503939558715
+ },
+ "original_firstorder_Skewness": {
+  "std": 0.3157678423029986,
+  "mean": -0.11891939682005664
+ },
+ "original_firstorder_TotalEnergy": {
+  "std": 12036863105.298397,
+  "mean": 10626233725.641977
+ },
+ "original_firstorder_Uniformity": {
+  "std": 0.004111168914283974,
+  "mean": 0.021214631602445928
+ },
+ "original_firstorder_Variance": {
+  "std": 50736.04702175436,
+  "mean": 124125.74765371208
+ },
+ "original_glcm_Autocorrelation": {
+  "std": 2944.56906570427,
+  "mean": 4643.465787922963
+ },
+ "original_glcm_ClusterProminence": {
+  "std": 2110285.7110421173,
+  "mean": 1205918.3715485018
+ },
+ "original_glcm_ClusterShade": {
+  "std": 11045.018575835793,
+  "mean": -2863.5464545834557
+ },
+ "original_glcm_ClusterTendency": {
+  "std": 221.02193221064178,
+  "mean": 576.3187767212672
+ },
+ "original_glcm_Contrast": {
+  "std": 80.0070836470139,
+  "mean": 161.6660176576354
+ },
+ "original_glcm_Correlation": {
+  "std": 0.09832256605068417,
+  "mean": 0.5669948179863601
+ },
+ "original_glcm_DifferenceAverage": {
+  "std": 2.2311488881572474,
+  "mean": 9.176184392239682
+ },
+ "original_glcm_DifferenceEntropy": {
+  "std": 0.3429749414483492,
+  "mean": 4.598837481909419
+ },
+ "original_glcm_DifferenceVariance": {
+  "std": 34.660691647962324,
+  "mean": 70.22905629910626
+ },
+ "original_glcm_Id": {
+  "std": 0.03569222230560665,
+  "mean": 0.21536460131628263
+ },
+ "original_glcm_Idm": {
+  "std": 0.03287156438503739,
+  "mean": 0.13401360708071566
+ },
+ "original_glcm_Idmn": {
+  "std": 0.007850149244613754,
+  "mean": 0.9835137291487209
+ },
+ "original_glcm_Idn": {
+  "std": 0.01852096502345011,
+  "mean": 0.9183535841705563
+ },
+ "original_glcm_Imc1": {
+  "std": 0.026072837077200196,
+  "mean": -0.08174450566257717
+ },
+ "original_glcm_Imc2": {
+  "std": 0.06589249947820987,
+  "mean": 0.7385354443227057
+ },
+ "original_glcm_InverseVariance": {
+  "std": 0.03183833130206913,
+  "mean": 0.1377402148114853
+ },
+ "original_glcm_JointAverage": {
+  "std": 21.97913127229417,
+  "mean": 63.736855131745514
+ },
+ "original_glcm_JointEnergy": {
+  "std": 0.00034230076026116405,
+  "mean": 0.0007695153843257287
+ },
+ "original_glcm_JointEntropy": {
+  "std": 0.571930030537612,
+  "mean": 10.891312190875746
+ },
+ "original_glcm_MCC": {
+  "std": 0.10158718490497497,
+  "mean": 0.6703274966927465
+ },
+ "original_glcm_MaximumProbability": {
+  "std": 0.0011354984782883449,
+  "mean": 0.002264808953082746
+ },
+ "original_glcm_SumAverage": {
+  "std": 43.9582625445883,
+  "mean": 127.47371026349103
+ },
+ "original_glcm_SumEntropy": {
+  "std": 0.2620655435271802,
+  "mean": 6.518922750219947
+ },
+ "original_glcm_SumSquares": {
+  "std": 71.24539946057692,
+  "mean": 184.49619859472563
+ },
+ "original_gldm_DependenceEntropy": {
+  "std": 0.23201117214869327,
+  "mean": 7.611042414673924
+ },
+ "original_gldm_DependenceNonUniformity": {
+  "std": 40174.73581717854,
+  "mean": 29159.762437107678
+ },
+ "original_gldm_DependenceNonUniformityNormalized": {
+  "std": 0.06151215849224746,
+  "mean": 0.31263762848598264
+ },
+ "original_gldm_DependenceVariance": {
+  "std": 1.1152640954243165,
+  "mean": 1.7936597975383386
+ },
+ "original_gldm_GrayLevelNonUniformity": {
+  "std": 2483.5788322679527,
+  "mean": 1961.1349524634563
+ },
+ "original_gldm_GrayLevelVariance": {
+  "std": 81.14577476343378,
+  "mean": 198.6717045827602
+ },
+ "original_gldm_HighGrayLevelEmphasis": {
+  "std": 2875.3855554814268,
+  "mean": 4506.061805025159
+ },
+ "original_gldm_LargeDependenceEmphasis": {
+  "std": 2.744560981139337,
+  "mean": 6.210280886404648
+ },
+ "original_gldm_LargeDependenceHighGrayLevelEmphasis": {
+  "std": 21578.10365234965,
+  "mean": 29527.96500994754
+ },
+ "original_gldm_LargeDependenceLowGrayLevelEmphasis": {
+  "std": 0.10566465506610856,
+  "mean": 0.016969978167696947
+ },
+ "original_gldm_LowGrayLevelEmphasis": {
+  "std": 0.0013479993408950957,
+  "mean": 0.0009338693825086082
+ },
+ "original_gldm_SmallDependenceEmphasis": {
+  "std": 0.07736749842886638,
+  "mean": 0.5323334135962734
+ },
+ "original_gldm_SmallDependenceHighGrayLevelEmphasis": {
+  "std": 1769.5755283141875,
+  "mean": 2326.5847637542415
+ },
+ "original_gldm_SmallDependenceLowGrayLevelEmphasis": {
+  "std": 0.0007808730039735757,
+  "mean": 0.0005080530432589392
+ },
+ "original_glrlm_GrayLevelNonUniformity": {
+  "std": 2393.5280343604395,
+  "mean": 1878.0689272764232
+ },
+ "original_glrlm_GrayLevelNonUniformityNormalized": {
+  "std": 0.004123365728298251,
+  "mean": 0.021204134815488978
+ },
+ "original_glrlm_GrayLevelVariance": {
+  "std": 80.0750270023326,
+  "mean": 198.02574386784968
+ },
+ "original_glrlm_HighGrayLevelRunEmphasis": {
+  "std": 2869.8720446822476,
+  "mean": 4481.805212917528
+ },
+ "original_glrlm_LongRunEmphasis": {
+  "std": 0.06082701314066667,
+  "mean": 1.1425334819460136
+ },
+ "original_glrlm_LongRunHighGrayLevelEmphasis": {
+  "std": 3201.778376466244,
+  "mean": 5156.280983732858
+ },
+ "original_glrlm_LongRunLowGrayLevelEmphasis": {
+  "std": 0.00214925589197974,
+  "mean": 0.0011844628983798881
+ },
+ "original_glrlm_LowGrayLevelRunEmphasis": {
+  "std": 0.0012690912595604922,
+  "mean": 0.0009124952947991953
+ },
+ "original_glrlm_RunEntropy": {
+  "std": 0.23934239788960707,
+  "mean": 5.9502229660362405
+ },
+ "original_glrlm_RunLengthNonUniformity": {
+  "std": 108926.68413137824,
+  "mean": 84068.89859828593
+ },
+ "original_glrlm_RunLengthNonUniformityNormalized": {
+  "std": 0.020882125385124392,
+  "mean": 0.9250220646572467
+ },
+ "original_glrlm_RunPercentage": {
+  "std": 0.013624663899272265,
+  "mean": 0.9587743903054429
+ },
+ "original_glrlm_RunVariance": {
+  "std": 0.028298983106267956,
+  "mean": 0.05302685023473915
+ },
+ "original_glrlm_ShortRunEmphasis": {
+  "std": 0.00894883081316738,
+  "mean": 0.9701557415879487
+ },
+ "original_glrlm_ShortRunHighGrayLevelEmphasis": {
+  "std": 2802.9820922622066,
+  "mean": 4340.7879848819
+ },
+ "original_glrlm_ShortRunLowGrayLevelEmphasis": {
+  "std": 0.0012067366540966795,
+  "mean": 0.0008756035755310357
+ },
+ "original_glszm_GrayLevelNonUniformity": {
+  "std": 1587.3186464162802,
+  "mean": 1186.4494813638803
+ },
+ "original_glszm_GrayLevelNonUniformityNormalized": {
+  "std": 0.004619208614066648,
+  "mean": 0.02167066791147594
+ },
+ "original_glszm_GrayLevelVariance": {
+  "std": 79.50617979290392,
+  "mean": 191.79277418610332
+ },
+ "original_glszm_HighGrayLevelZoneEmphasis": {
+  "std": 2807.12269818962,
+  "mean": 4214.447028341609
+ },
+ "original_glszm_LargeAreaEmphasis": {
+  "std": 34.16560186727642,
+  "mean": 16.576663359095857
+ },
+ "original_glszm_LargeAreaHighGrayLevelEmphasis": {
+  "std": 203651.37838049154,
+  "mean": 83170.7865439694
+ },
+ "original_glszm_LargeAreaLowGrayLevelEmphasis": {
+  "std": 0.15899823405592506,
+  "mean": 0.027001079733790935
+ },
+ "original_glszm_LowGrayLevelZoneEmphasis": {
+  "std": 0.0016519616130527977,
+  "mean": 0.0010040045648086536
+ },
+ "original_glszm_SizeZoneNonUniformity": {
+  "std": 42733.172322913946,
+  "mean": 31030.16941668584
+ },
+ "original_glszm_SizeZoneNonUniformityNormalized": {
+  "std": 0.05233783437897648,
+  "mean": 0.5498744752422405
+ },
+ "original_glszm_SmallAreaEmphasis": {
+  "std": 0.03552604073057986,
+  "mean": 0.7686664132641728
+ },
+ "original_glszm_SmallAreaHighGrayLevelEmphasis": {
+  "std": 2252.2061008945266,
+  "mean": 3193.888083600607
+ },
+ "original_glszm_SmallAreaLowGrayLevelEmphasis": {
+  "std": 0.0013921342926370168,
+  "mean": 0.0008157622787569725
+ },
+ "original_glszm_ZoneEntropy": {
+  "std": 0.1846757498198729,
+  "mean": 7.077530676255083
+ },
+ "original_glszm_ZonePercentage": {
+  "std": 0.08397614069026556,
+  "mean": 0.6016046506574115
+ },
+ "original_glszm_ZoneVariance": {
+  "std": 33.30598892513625,
+  "mean": 13.611605873387997
+ },
+ "original_ngtdm_Busyness": {
+  "std": 1.6041361930796527,
+  "mean": 1.6887924433961645
+ },
+ "original_ngtdm_Coarseness": {
+  "std": 0.00016544860521206967,
+  "mean": 0.00021862239970225927
+ },
+ "original_ngtdm_Complexity": {
+  "std": 26553.994529459127,
+  "mean": 30346.83491606543
+ },
+ "original_ngtdm_Contrast": {
+  "std": 0.14686789779832982,
+  "mean": 0.3144797862048371
+ },
+ "original_ngtdm_Strength": {
+  "std": 0.7093057754622508,
+  "mean": 0.7293872643873665
+ },
+ "original_shape_Elongation": {
+  "std": 0.13153179301211299,
+  "mean": 0.7372424677315932
+ },
+ "original_shape_Flatness": {
+  "std": 0.11392824801328978,
+  "mean": 0.41744980606551607
+ },
+ "original_shape_LeastAxisLength": {
+  "std": 14.824846678934524,
+  "mean": 24.701745710965763
+ },
+ "original_shape_MajorAxisLength": {
+  "std": 23.30123360319112,
+  "mean": 57.40578274890814
+ },
+ "original_shape_Maximum2DDiameterColumn": {
+  "std": 19.30780799274007,
+  "mean": 55.648260093515376
+ },
+ "original_shape_Maximum2DDiameterRow": {
+  "std": 20.986057365411444,
+  "mean": 55.38032468670391
+ },
+ "original_shape_Maximum2DDiameterSlice": {
+  "std": 19.42579672534514,
+  "mean": 46.61075765724567
+ },
+ "original_shape_Maximum3DDiameter": {
+  "std": 22.201945182876287,
+  "mean": 64.23081876675897
+ },
+ "original_shape_MeshVolume": {
+  "std": 9416.708055390653,
+  "mean": 7910.39891288797
+ },
+ "original_shape_MinorAxisLength": {
+  "std": 15.20339105796857,
+  "mean": 41.04200422230476
+ },
+ "original_shape_Sphericity": {
+  "std": 0.0671098190195663,
+  "mean": 0.24271578943416472
+ },
+ "original_shape_SurfaceArea": {
+  "std": 10939.989395791083,
+  "mean": 9536.39053510841
+ },
+ "original_shape_SurfaceVolumeRatio": {
+  "std": 0.2887996115159052,
+  "mean": 1.225244587385085
+ },
+ "original_shape_VoxelVolume": {
+  "std": 9480.792961572135,
+  "mean": 7957.684093564125
+ },
+ "Gender": {
+  "std": 0.49131878451841643,
+  "mean": 0.6071428571428571
+ },
+ "Age": {
+  "std": 17.170235356994166,
+  "mean": 28.952380952380953
+ },
+ "label": {
+  "std": 0.4978438881870134,
+  "mean": 0.5714285714285714
+ }
+}

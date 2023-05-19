@@ -1,0 +1,36 @@
+[
+  {
+    "id": "image1",
+    "name": "图像",
+    "type": "image",
+    "choice": [],
+    "scope": []
+  },
+  {
+    "id": "image2",
+    "name": "图像2",
+    "type": "image",
+    "choice": [],
+    "scope": []
+  },
+  {
+    "id": "age",
+    "name": "Age",
+    "type": "float",
+    "choice": [],
+    "scope": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": "sex",
+    "name": "Gender",
+    "type": "text",
+    "choice": [
+      "女",
+      "男"
+    ],
+    "scope": []
+  }
+]

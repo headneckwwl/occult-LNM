@@ -1,0 +1,17 @@
+
+from sys import version_info
+assert version_info.major > 2 and version_info.minor > 5, "Only Python3.6+ supported!"
+import argparse
+
+from scripts.core.clf_convert2rec import clf_covert2rec as func
+
+parser = argparse.ArgumentParser(description='\n    Convert labelme format annotation to onekey_algo training dataset.\n')
+parser.add_argument('--input_dir', default=None, required=True, type=str, help=r"str, input dir")
+parser.add_argument('--save_dir', default=None, required=True, type=str, help=r"str, output dir")
+parser.add_argument('--partition', nargs='*', default=[0.8, 0.2], type=float, help=r"float list, train, valid, test partition.")
+args = parser.parse_args()
+
+if __name__ == "__main__":
+    results = func(**vars(args))
+    if results:
+        print(results)

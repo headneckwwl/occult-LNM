@@ -1,0 +1,22 @@
+{
+  "name": "Spleen",
+  "description": "Spleen Segmentation",
+  "reference": "Memorial Sloan Kettering Cancer Center",
+  "licence": "CC-BY-SA 4.0",
+  "release": "1.0 06/08/2018",
+  "tensorImageSize": "3D",
+  "modality": {
+    "0": "CT"
+  },
+  "labels": {
+    "0": "background",
+    "1": "spleen"
+  },
+  "numTraining": 41,
+  "numTest": 20,
+  "training": [],
+  "test": []
+}
+
+
+

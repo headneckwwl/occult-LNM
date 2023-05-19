@@ -1,0 +1,16 @@
+
+from sys import version_info
+assert version_info.major > 2 and version_info.minor > 5, "Only Python3.6+ supported!"
+import argparse
+
+from scripts.core.visualization import draw_roc as func
+
+parser = argparse.ArgumentParser(description='\n    Draw roc and compute auc for binary classification')
+parser.add_argument('--onekey_result', default=None, required=True, type=str, help=r"Onekey result file. filename, probability, prediction, gt")
+parser.add_argument('--save_dir', default='./', type=str, help=r"str, where to save. default ./")
+args = parser.parse_args()
+
+if __name__ == "__main__":
+    results = func(**vars(args))
+    if results:
+        print(results)
